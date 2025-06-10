@@ -13,3 +13,8 @@ git merge <branch> // Merge a branch into the current branch
 git remote // Show the remote repositories
 git remote add <name> <url> // Add a new remote repository
 git remote remove <name> // Remove a remote repository
+git push -u origin <branch> // Push the current branch to the remote repository
+
+git push // Push the current branch to the remote repository
+git pull // Pull the current branch from the remote repository
+git clone <url> // Clone a remote repository
