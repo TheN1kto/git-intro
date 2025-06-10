@@ -4,3 +4,4 @@ git add <file> // Add a file to the staging area
 git commit -m "<message>" // Commit the changes to the repository
 git config --global user.name "<username>" // Configure the username
 git config --global user.email "<email>" // Configure the email
+git branch // Show the current branch
