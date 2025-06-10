@@ -9,3 +9,7 @@ git branch // Show the current branch
 git branch <branch> // Create a new branch
 git checkout <branch> // Switch to a branch
 git merge <branch> // Merge a branch into the current branch
+
+git remote // Show the remote repositories
+git remote add <name> <url> // Add a new remote repository
+git remote remove <name> // Remove a remote repository
